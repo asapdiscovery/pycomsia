@@ -1,0 +1,15 @@
+name: pycomsia
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pyvista
+  - pandas
+  - rdkit
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pubchempy
+  - pytest
+  - cookiecutter
+
