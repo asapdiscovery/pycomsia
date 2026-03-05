@@ -260,6 +260,19 @@ def main(train_file, predict_file, sdf_activity, grid_resolution, grid_padding,
             output_dir, significant_ranges
         )
         click.echo("✅ Contour plots saved")
+        
+        # Create PyMOL session with all input ligands
+        click.echo("🧬 Creating PyMOL session...")
+        contour_visualizer.create_pymol_session(
+            molecules=[mol for mol, _ in aligned_mols],  # All molecules (train + predict)
+            output_dir=output_dir,
+            session_name="pycomsia_ligands",
+            coefficients=coefficients,
+            grid_dimensions=grid_dimensions,
+            grid_origin=grid_origin,
+            grid_spacing=grid_spacing,
+            significant_ranges=significant_ranges
+        )
     elif not disable_visualization and not VISUALIZATION_AVAILABLE:
         click.echo("⚠️  Contour plots requested but dependencies not available")
     else:
