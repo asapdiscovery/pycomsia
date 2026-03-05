@@ -1,2 +1,0 @@
-r2_train,r2_test,q2,SPRESS,S_train,S_test,Number of Components,Contribution Fraction (steric_field),Contribution Fraction (electrostatic_field),Contribution Fraction (hydrophobic_field),Contribution Fraction (hbond_donor_field),Contribution Fraction (hbond_acceptor_field)
-0.7996295821981012,0.6545469352574718,0.6596049711998413,1.3651780734709345,1.0112464958637566,1.4791504580714516,3,0.2867273399196139,0.22039310232980172,0.24972194040455803,0.12331132555306748,0.11984629179295887

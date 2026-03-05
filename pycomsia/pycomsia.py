@@ -2,7 +2,7 @@
 
 # Import all core classes
 from .data_loader import DataLoader
-from .molecule_aligner import MoleculeAligner 
+# from .molecule_aligner import MoleculeAligner  # Temporarily disabled due to conflicts
 from .molecular_grid_calculator import MolecularGridCalculator
 from .molecular_field_calculator import MolecularFieldCalculator
 from .molecular_visualizer import MolecularVisualizer
