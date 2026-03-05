@@ -9,36 +9,6 @@ class DataLoader:
         self.activities = None
         self.molecules = None
         
-    def load_data(self, csv_file, is_training=True):
-        """
-        Load SMILES and activity data from CSV
-        
-        Parameters:
-        -----------
-        csv_file : str
-            Path to the CSV file
-        is_training : bool, default=True
-            If True, loads both SMILES and activities
-            If False, loads only SMILES (for prediction dataset)
-            
-        Returns:
-        --------
-        tuple
-            If is_training=True: (smiles_list, activities)
-            If is_training=False: (smiles_list, None)
-        """
-        df = pd.read_csv(csv_file)
-        self.smiles_list = df['SMILES'].tolist()
-        
-        if is_training:
-            if 'Activity' not in df.columns:
-                raise ValueError("Activity column not found in training dataset")
-            self.activities = df['Activity'].values
-        else:
-            self.activities = None
-        
-        return self.smiles_list, self.activities
-    
     def load_sdf_data(self, sdf_file, activity_property=None, is_training=True):
         """
         Load SMILES, 3D molecules, and activity data from SDF
@@ -69,15 +39,17 @@ class DataLoader:
 
         for mol in suppl:
             if mol is not None:
-                # Generate SMILES from the molecule
-                smiles = Chem.MolToSmiles(mol)
+                # Ensure all molecules have hydrogens (add if missing, keep if present)
+                mol_with_hs = Chem.AddHs(mol)
+                
+                # Generate SMILES from the molecule with hydrogens
+                smiles = Chem.MolToSmiles(mol_with_hs)
                 self.smiles_list.append(smiles)
 
-                # Store the 3D molecule with the is_training flag
-                mol = Chem.AddHs(mol)
-                mols_with_flag.append((mol, is_training))
+                # Store the 3D molecule with hydrogens and the is_training flag
+                mols_with_flag.append((mol_with_hs, is_training))
 
-                # Extract activity if in training mode
+                # Extract activity if in training mode (from original mol to preserve properties)
                 if is_training:
                     if activity_property is None:
                         raise ValueError("Activity property must be specified for training data")

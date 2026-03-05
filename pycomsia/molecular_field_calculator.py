@@ -143,8 +143,10 @@ class MolecularFieldCalculator:
             # Pass the donor/acceptor atom index
             filtered_positions = self._filter_positions(mol, positions, is_donor, donor_acceptor_idx=atom_idx)
             
-            if not filtered_positions and is_donor:
-                print(f"Warning: All donor positions filtered out for atom {atom_idx}")
+            # Note: Suppressed warning about filtered donor positions - this is normal when 
+            # atoms are too close together and indicates proper steric filtering
+            # if not filtered_positions and is_donor:
+            #     print(f"Warning: All donor positions filtered out for atom {atom_idx}")
                 
             pseudoatom_positions.extend(filtered_positions)
         

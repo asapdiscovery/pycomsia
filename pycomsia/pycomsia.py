@@ -23,8 +23,8 @@ def get_version():
 def list_modules():
     """List available PyCoMSIA modules."""
     modules = [
-        'DataLoader - Load SMILES and activity data from CSV/SDF files',
-        'MoleculeAligner - Align molecules using common substructures', 
+        'DataLoader - Load molecular data from SDF files',
+        'MoleculeAligner - Alignment functionality disabled (assumes pre-aligned SDFs)', 
         'MolecularGridCalculator - Generate 3D grids for molecular fields',
         'MolecularFieldCalculator - Calculate steric, electrostatic, and other fields',
         'MolecularVisualizer - Visualize molecules and fields using PyVista',

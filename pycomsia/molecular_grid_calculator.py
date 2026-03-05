@@ -21,7 +21,7 @@ class MolecularGridCalculator:
         """
         Generate grid parameters that encompass all aligned molecules.
         Args:
-            aligned_results: List of tuples (mol, is_training) from MoleculeAligner
+            aligned_results: List of tuples (mol, is_training) from pre-aligned SDF files
             resolution: Grid spacing (float)
             padding: Padding around the molecules (float)
         Returns:

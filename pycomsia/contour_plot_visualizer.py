@@ -124,7 +124,7 @@ class ContourPlotVisualizer:
             atomic_num = atom.GetAtomicNum()
             
             sphere = pv.Sphere(radius=0.2, phi_resolution=20, theta_resolution=20)
-            atoms = pv.PolyData(coord).glyph(geom=sphere)
+            atoms = pv.PolyData(coord).glyph(geom=sphere, scale=False, orient=False)
             color = self._get_atom_color(atomic_num)
             plotter.add_mesh(atoms, color=color)
         
