@@ -90,6 +90,8 @@ def main(input_file, sdf_activity, predict_file, grid_resolution, grid_padding, 
             first_molecule_fields, output_directory)
     else:
         pass
+
+    
     # Convert fields for PLS (using only the selected fields)
     train = {k: v for k, v in all_field_values["train_fields"].items() if k.replace("_field", "") in FIELD_OPTIONS[fields]}
     pred = {k: v for k, v in all_field_values["pred_fields"].items() if k.replace("_field", "") in FIELD_OPTIONS[fields]} if predict_file else None
