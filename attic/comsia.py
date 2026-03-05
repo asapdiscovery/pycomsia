@@ -75,6 +75,7 @@ def main(input_file, sdf_activity, predict_file, grid_resolution, grid_padding, 
         pass
     # Calculate grid
     grid_spacing, grid_dimensions, grid_origin = grid_calculator.generate_grid(aligned_mols, grid_resolution, grid_padding)
+    
     # Calculate fields
     all_field_values = field_calculator.calc_field(aligned_mols, grid_spacing, grid_dimensions, grid_origin)
     # Visualize fields
@@ -91,7 +92,7 @@ def main(input_file, sdf_activity, predict_file, grid_resolution, grid_padding, 
     else:
         pass
 
-    
+
     # Convert fields for PLS (using only the selected fields)
     train = {k: v for k, v in all_field_values["train_fields"].items() if k.replace("_field", "") in FIELD_OPTIONS[fields]}
     pred = {k: v for k, v in all_field_values["pred_fields"].items() if k.replace("_field", "") in FIELD_OPTIONS[fields]} if predict_file else None
@@ -110,6 +111,7 @@ def main(input_file, sdf_activity, predict_file, grid_resolution, grid_padding, 
     pls_model.export_predictions_and_residuals(output_directory)
     pls_model.plot_results(output_directory)
     coefficients = pls_model.get_coefficient_fields()
+    
     # Visualize coefficients
     if visualization == True:
         significant_ranges = contour_visualizer.calculate_significant_ranges(coefficients)

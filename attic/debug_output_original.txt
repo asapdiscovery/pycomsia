@@ -1,0 +1,1028 @@
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No data to use for scale. scale will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py:122: UserWarning: No vector-like data to use for orient. orient will be set to False.
+  atoms = pv.PolyData(coord).glyph(geom=sphere)
+Reading SDF file...
+Traceback (most recent call last):
+  File "/Users/jenkescheen/projects/pycomsia/pycomsia/attic/comsia.py", line 195, in <module>
+    main(args.train_file, args.sdf_activity, args.predict_file,
+  File "/Users/jenkescheen/projects/pycomsia/pycomsia/attic/comsia.py", line 72, in main
+    visualizer.visualize_aligned_molecules(
+  File "/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py", line 19, in visualize_aligned_molecules
+    self._add_molecule_to_plot(mol)
+  File "/Users/jenkescheen/projects/pycomsia/pycomsia/attic/src/MolecularVisualizer.py", line 134, in _add_molecule_to_plot
+    line = pv.Tube(pointa=start, pointb=end, radius=0.1, n_sides=15)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jenkescheen/micromamba/envs/asapdiscovery_tucked_ws/lib/python3.11/site-packages/pyvista/_deprecate_positional_args.py", line 243, in inner_f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/jenkescheen/micromamba/envs/asapdiscovery_tucked_ws/lib/python3.11/site-packages/pyvista/core/utilities/geometric_objects.py", line 1199, in Tube
+    line_src = LineSource(pointa, pointb, resolution)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jenkescheen/micromamba/envs/asapdiscovery_tucked_ws/lib/python3.11/site-packages/pyvista/core/utilities/misc.py", line 299, in __call__
+    obj = super().__call__(*args, **kwargs)  # type: ignore[misc]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jenkescheen/micromamba/envs/asapdiscovery_tucked_ws/lib/python3.11/site-packages/pyvista/core/utilities/geometric_sources.py", line 1615, in __init__
+    self.pointb = pointb
+    ^^^^^^^^^^^
+  File "/Users/jenkescheen/micromamba/envs/asapdiscovery_tucked_ws/lib/python3.11/site-packages/pyvista/core/utilities/misc.py", line 359, in __setattr__
+    object.__setattr__(self, key, value)
+  File "/Users/jenkescheen/micromamba/envs/asapdiscovery_tucked_ws/lib/python3.11/site-packages/pyvista/core/utilities/geometric_sources.py", line 1664, in pointb
+    self.SetPoint2(*pointb)
+KeyboardInterrupt

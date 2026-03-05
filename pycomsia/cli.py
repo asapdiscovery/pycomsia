@@ -9,6 +9,7 @@ import numpy as np
 from .data_loader import DataLoader
 from .molecular_grid_calculator import MolecularGridCalculator
 from .molecular_field_calculator import MolecularFieldCalculator
+from .pls_analysis import PLSAnalysis
 
 # Try to import visualizers, but handle missing dependencies gracefully
 try:
@@ -179,6 +180,7 @@ def main(train_file, predict_file, sdf_activity, grid_resolution, grid_padding,
         aligned_mols, grid_resolution, grid_padding
     )
     click.echo(f"✅ Grid calculated: {grid_dimensions} points with {grid_resolution} Å spacing")
+
     
     # Calculate fields
     click.echo("⚗️  Calculating molecular fields...")
@@ -208,31 +210,52 @@ def main(train_file, predict_file, sdf_activity, grid_resolution, grid_padding,
     else:
         click.echo("⏭️  Visualization disabled, skipping field plots")
     
-    # Generate contour plots (if visualization is enabled)
+    # Perform PLS Analysis
+    click.echo("🧠 Performing PLS analysis...")
+    
+    pls_analysis = PLSAnalysis()
+    
+    # Convert fields for PLS (using only the selected fields)
+    train_fields_selected = {k: v for k, v in all_field_values["train_fields"].items() 
+                           if k.replace("_field", "") in FIELD_OPTIONS[fields]}
+    pred_fields_selected = None
+    if predict_file is not None:
+        pred_fields_selected = {k: v for k, v in all_field_values["pred_fields"].items() 
+                              if k.replace("_field", "") in FIELD_OPTIONS[fields]}
+    
+    # Convert field data to feature matrix
+    pls_analysis.convert_fields_to_X(train_fields_selected, pred_fields_selected, filter=column_filter)
+    
+    # Perform leave-one-out cross-validation
+    pls_analysis.perform_loo_analysis(train_activities, max_components=num_components)
+    
+    # Fit final model with train/test split
+    if predict_file is not None:
+        pls_analysis.fit_final_model(train_activities, test_size=0.2, predict_smiles_list=predict_smiles_list)
+    else:
+        pls_analysis.fit_final_model(train_activities, test_size=0.2)
+    
+    # Export results
+    pls_analysis.export_metrics_to_csv(output_dir)
+    pls_analysis.export_predictions_and_residuals(output_dir)
+    pls_analysis.plot_results(output_dir)
+    
+    # Get coefficients for contour visualization
+    coefficients = pls_analysis.get_coefficient_fields()
+    
+    click.echo("✅ PLS analysis completed")
+    
+    # Generate contour plots using PLS coefficients (if visualization is enabled)
     if not disable_visualization and VISUALIZATION_AVAILABLE:
         click.echo("🗺️  Generating contour plots...")
         
-        # Use raw field values for contour visualization (skipping PLS for now)
-        train_field_values = all_field_values['train_fields']
-        
-        # Average field values across all molecules using selected fields
-        all_molecule_field_values = {}
-        for field in FIELD_OPTIONS[fields]:
-            field_key = f"{field}_field"
-            # Stack all molecule field values and take the mean across molecules
-            stacked_fields = np.array([field_data.reshape(grid_dimensions) 
-                                     for field_data in train_field_values[field_key]])
-            all_molecule_field_values[field_key] = np.mean(stacked_fields, axis=0)
-        
         # Calculate significant ranges for contour visualization
-        significant_ranges = contour_visualizer.calculate_significant_ranges(
-            all_molecule_field_values
-        )
+        significant_ranges = contour_visualizer.calculate_significant_ranges(coefficients)
         
-        # Generate contour plots using averaged field values
+        # Generate contour plots using PLS coefficients
         contour_visualizer.visualize_contour_plots(
             train_aligned_mols[0], 
-            all_molecule_field_values,
+            coefficients,
             grid_dimensions, grid_origin, grid_spacing,
             output_dir, significant_ranges
         )
