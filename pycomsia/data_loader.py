@@ -5,7 +5,7 @@ from rdkit.Chem import AllChem
 
 class DataLoader:
     def __init__(self):
-        self.smiles_list = None
+        self.smiles_list = []
         self.activities = None
         self.molecules = None
         

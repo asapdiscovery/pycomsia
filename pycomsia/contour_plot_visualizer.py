@@ -31,6 +31,12 @@ class ContourPlotVisualizer:
             low_range = sorted_values[:bottom_index]
             high_range = sorted_values[top_index:]
             
+            # Handle empty ranges
+            if len(low_range) == 0:
+                low_range = [np.min(sorted_values)]
+            if len(high_range) == 0:
+                high_range = [np.max(sorted_values)]
+            
             significant_ranges[field_name] = {
                 'low': (np.min(low_range), np.max(low_range)),
                 'high': (np.min(high_range), np.max(high_range))

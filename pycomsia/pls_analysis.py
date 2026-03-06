@@ -160,8 +160,14 @@ class PLSAnalysis:
 
         for field_name in train_fields:
             train_data = np.array(train_fields[field_name])
+            # Ensure 2D array (molecules x features)
+            if train_data.ndim == 1:
+                train_data = train_data.reshape(1, -1)
+            
             if pred_fields is not None:
                 pred_data = np.array(pred_fields[field_name])
+                if pred_data.ndim == 1:
+                    pred_data = pred_data.reshape(1, -1)
                 combined_fields[field_name] = np.vstack((train_data, pred_data))
             else:
                 combined_fields[field_name] = train_data
