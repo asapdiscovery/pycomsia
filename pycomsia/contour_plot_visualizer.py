@@ -150,9 +150,13 @@ class ContourPlotVisualizer:
         output_dir = Path(output_dir)
         output_dir.mkdir(exist_ok=True)
         
+        # Create ContourPlots subdirectory if it doesn't exist
+        contour_plots_dir = output_dir / "Contour_Plots"
+        contour_plots_dir.mkdir(exist_ok=True)
+        
         # Create temporary SDF file with all molecules
         temp_sdf_file = output_dir / f"{session_name}_temp.sdf"
-        session_file = output_dir / f"{session_name}.pse"
+        session_file = contour_plots_dir / f"{session_name}.pse"
         
         try:
             # Write all molecules to temporary SDF file
