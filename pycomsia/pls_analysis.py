@@ -231,7 +231,15 @@ class PLSAnalysis:
         self.X_train = X_train
         self.X_pred = X_pred
         self.field_names = list(train_fields.keys())
-        self.field_shape = (len(train_fields['steric_field'][0]),)
+        
+        # Determine field shape based on data structure
+        first_field = train_fields[self.field_names[0]]
+        if isinstance(first_field[0], (int, float, np.number)):
+            # Single array case - field_shape is total length divided by number of fields
+            self.field_shape = (len(first_field) // len(self.field_names),)
+        else:
+            # List of arrays case
+            self.field_shape = (len(first_field[0]),)
 
         return X_train, X_pred
 
