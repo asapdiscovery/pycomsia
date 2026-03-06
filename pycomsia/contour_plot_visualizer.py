@@ -187,6 +187,7 @@ class ContourPlotVisualizer:
                 # Set display preferences
                 cmd.hide("everything")
                 cmd.show("sticks", "ligands")
+                cmd.hide("lines", "ligands")  # Hide wires/wireframe
                 cmd.color("atomic", "ligands")
                 
                 # Add contours for all available fields if data is provided
